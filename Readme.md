@@ -13,6 +13,10 @@ Key aspects of the project include:
 2. Identification and replacement of outlier data using multiple methods
 3. Removal of duplicates and filling of missing values
 4. Data smoothing using Gaussian process theory and moving averages
+   
+Here some images of Data Preprocessing section from Repord.pdf is uploaded.
+![image](https://github.com/user-attachments/assets/23209747-714d-44a8-a17e-060e0aa47f75)
+
 
 ### Data Processing:
 
@@ -20,6 +24,8 @@ Key aspects of the project include:
 2. Calculation of probability functions for various parameters in relation to temperature
 3. Regression analysis using deep learning models to find relationships between temperature and other variables by using Deep Learning Models.
 
+Here some images of Data Processing section from Repord.pdf is uploaded.
+![image](https://github.com/user-attachments/assets/2ac2cba9-0c84-4b53-913b-ea016cf06328)
 
 ### Results and Analysis:
 
@@ -29,5 +35,3 @@ probability density functions (PDFs) for each dataset in relation to temperature
 This project demonstrates the application of advanced data analysis techniques, including machine learning, to better understand the growth dynamics of Spirulina platensis 
 in raceway pond cultivation. The insights gained from this analysis could be valuable for optimizing algae cultivation processes and potentially contribute to 
 NASA's research on oxygen production and CO2 sequestration for space exploration.
-
-
