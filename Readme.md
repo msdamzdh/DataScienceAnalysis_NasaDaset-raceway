@@ -3,6 +3,18 @@ This project focuses on analyzing data from experiments involving the cultivatio
 The dataset includes various measurements such as pH, optical density, oxygen concentration, chlorophyll a, salinity, PAM measurements, air temperature, and irradiance.
 This dataset is downloadable from this [link](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
 
+### Project Structure
+
+**DSProj**: Contains all MATLAB scripts and functions used for data analysis and modeling.
+
+**Report.pdf**: Provides a comprehensive, step-by-step guide detailing the methodology, analysis process, and results interpretation.
+
+**algae.mat**: Original dataset file containing measurements from the Spirulina platensis cultivation experiments.
+
+**README.md**: This file, offering an overview of the project and its structure.
+
+To replicate the analysis, please refer to the detailed instructions in the Report.pdf file while executing the scripts found in the DSProj directory.
+
 Key aspects of the project include:
 1. Data Preprocessing
 2. Data Processing
